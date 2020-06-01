@@ -4,6 +4,6 @@ A python TKinter game made for my first year programming coursework. All assets 
 ## Main menu
 ![Main menu](https://github.com/great-code-madim/Octagoat/blob/master/Screenshots/Screenshot%20from%202020-06-01%2017-55-41.png)
 
-## Mating season mode
+## Hard mode
 
-![Mating season mode](https://github.com/great-code-madim/Octagoat/blob/master/Screenshots/Screenshot%20from%202020-06-01%2017-55-51.png)
+![Hard mode](https://github.com/great-code-madim/Octagoat/blob/master/Screenshots/Screenshot%20from%202020-06-01%2018-06-22.png)
